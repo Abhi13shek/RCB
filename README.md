@@ -30,6 +30,7 @@ This project uses ball-by-ball IPL data to analyze RCB's overall performance and
 
 The analysis combines team-level and player-level metrics to uncover patterns in batting, bowling, partnerships, venue performance, and winning strategies.
 
+visit here to look at analysis -> https://abhi13shek.github.io/RCB/RCB.html
 ---
 
 ## Live Analysis
